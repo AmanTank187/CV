@@ -8,7 +8,7 @@ I am a very determined individual looking for a junior developer role. I am pass
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Group racing game in college**            | A webapp to do x. | React, Jest, etc. |
+| **Group racing game in college**            | Worked in a team of three to design and build a time trial racing game | Unreal engine,UML ,Gantt chart, Kanban Board |
 | **Something else worked on** | A webapp to do y. | Ruby              |
 
 ## Experience
