@@ -14,15 +14,9 @@ I am a very determined individual looking for a junior developer role. I am pass
 
 ## Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
-
-- Any experience relevent to software development
-
-**Company Name** (start-date to end-date)  
-_Your job title_
-
-- Any experience relevent to software development
+**Primark** (Oct 2018 - Oct 2020)  
+_Retail Assistant_
+Developed great communication skills that will help me confidently communicate with my collegues in a professional enviroment. I learnt to manage multiple tasks at once and do them on time, this will help me meet all my deadlines in a software development enviroment. 
 
 ## Skills
 
