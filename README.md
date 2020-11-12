@@ -1,6 +1,8 @@
 ## Aman Tank
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+I am a very determined individual looking for a junior developer role. I am passionate about learning new things and want to be able to write good quality industry standard code.  As a junior I hope to bring my enthusiasm and hard working ethic to your company. I recently finished college where i studied software development and i am eagar to start working in a professional enviroment where i can thrive due to hands on experiences. I want to work with others that share a similar mindset of always trying to improve and deliver work at the highest quality.
+
+
 
 ## Projects
 
