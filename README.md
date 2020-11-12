@@ -53,9 +53,13 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 #### Your University / College (start_date to end_date)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+#### Uxbridge college							(Sep  2016 - June 2018)
+
+BTEC extended diploma 
+Achieved Distinction*, Distinction *, Distinction*
+
+#### Churchmead School CoE, Datchet					(Sep 2011 - July  2015)						
+GCSEs: 9 GCSEs (A-C) including maths and english.
 
 #### Any other qualifications
 
