@@ -1,6 +1,6 @@
 ## Aman Tank
 
-I am a very determined individual looking for a junior developer role. I am passionate about learning new things and want to be able to write good quality industry standard code.  As a junior I hope to bring my enthusiasm and hard working ethic to your company. I recently finished college where i studied software development and i am eagar to start working in a professional enviroment where i can thrive due to hands on experiences. I want to work with others that share a similar mindset of always trying to improve and deliver work at the highest quality.
+I am a very determined individual looking for a junior developer role. I am passionate about learning new things and want to be able to write good quality industry standard code.  As a junior I hope to bring my enthusiasm and hard working ethic to your company. I recently finished college where i studied software development and i am eagar to start working in a professional enviroment where i can thrive due to getting hands on experiences. I want to work with others that share a similar mindset of always trying to improve and deliver work at the highest quality.
 
 
 
@@ -8,7 +8,8 @@ I am a very determined individual looking for a junior developer role. I am pass
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
+| **Group racing game
+     in college**            | A webapp to do x. | React, Jest, etc. |
 | **Something else worked on** | A webapp to do y. | Ruby              |
 
 ## Experience
