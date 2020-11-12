@@ -9,8 +9,8 @@ I am a very determined individual looking for a junior developer role. I am pass
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
 | **Group racing game in college**            | Worked in a team of three to design and build a time trial racing game | Unreal engine,UML ,Gantt chart, Kanban Board |
-| **Battleships game in college** | Built a battleships game which allowed up to two players | C++ |   
-
+| **Battleships game in college** | Built a two player battleships game | C++ |   
+|**Ping pong game in college**| Built a two player ping pong game | python | 
 
 ## Experience
 
