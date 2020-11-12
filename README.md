@@ -44,14 +44,12 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (Nov 2020 -)
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
-
-#### Your University / College (start_date to end_date)
 
 #### Uxbridge college							(Sep  2016 - June 2018)
 
@@ -67,4 +65,4 @@ That in some arguable way make you a better software developer or well-rounded p
 
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+I am a competitive person so i enjoy gaming and playing sports. For gaming i will take part in tournaments in my free time and for sports i play football weekly. 
