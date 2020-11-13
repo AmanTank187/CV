@@ -1,6 +1,7 @@
 ## Aman Tank
 
-I am a very determined individual looking for a junior developer role. I am passionate about learning new things and want to be able to write good quality industry standard code.  As a junior I hope to bring my enthusiasm and hard working ethic to your company. I recently finished college where i studied software development and i am eagar to start working in a professional enviroment where i can thrive due to getting hands on experiences. I want to work with others that share a similar mindset of always trying to improve and deliver work at the highest quality.
+I am a very determined individual looking for a junior developer role. I am passionate about learning new things and want to be able to write good quality industry standard code.  As a junior I hope to bring my enthusiasm and hard working ethic to your company. I recently finished college where I studied software development and I am eager to start working in a professional environment where I can thrive due to getting hands-on experiences. I want to work with others that share a similar mindset of always trying to improve and deliver work at the highest quality.
+
 
 ## Projects
 
@@ -14,7 +15,7 @@ I am a very determined individual looking for a junior developer role. I am pass
 
 **Primark** (Oct 2018 - Oct 2020)  
 _Retail Assistant_ -
- Developed great communication skills that will help me confidently communicate with my collegues in a professional enviroment. I learnt to manage multiple tasks at once and do them on time, this will help me meet all my deadlines in a software development enviroment. 
+ Developed great communication skills that will help me confidently communicate with my colleagues in a professional environment. I learnt to manage multiple tasks at once and do them on time, this will help me meet all my deadlines in a software development environment. 
 
 ## Skills
 
