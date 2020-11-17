@@ -13,7 +13,7 @@ I am a very determined individual looking for a junior developer role. I am pass
 ## Experience
 
 #### Group racing game(2018)					
-*Worked in a team of three to design and build a time trial racing game using Unreal engine. 
+..* Worked in a team of three to design and build a time trial racing game using Unreal engine. 
 *Communicated and organised tasks for the team using a kanban board. 
 •Led project reviews to discuss  progress with our supervisor by creating reports. 
 •Took part in sprint retrospectives to help improve our processes and support my team. 
