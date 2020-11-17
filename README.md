@@ -6,9 +6,9 @@ I am a very determined individual looking for a junior developer role. I am pass
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Group racing game in college**            | Worked in a team of three to design and build a time trial racing game | Unreal engine,UML ,Gantt chart, Kanban Board |
-| **Battleships game in college** | Built a two player battleships game | C++ |   
-|**Ping pong game in college**| Built a two player ping pong game | python | 
+| **Student directory command line app**            | Application to add students to a list and save them to a file.| Ruby |
+| **Rock,Paper,Scissors** | Built mini game to play against the computer. | Ruby |   
+|**Guess the number**| Built a number guessing game with choice of difficulty. | Ruby | 
 
 ## Experience
 
@@ -27,12 +27,12 @@ I am a very determined individual looking for a junior developer role. I am pass
 * Used classes to separate the different functionality. 
 
 #### Ping pong game(2017)				
-•Learned Python from scratch. 
-•Created a two player ping pong game using Python. 
-•Designed a user friendly interface using the simplegui library.
-•Game included two end game conditions which were time and score limited.
-•Distributed questionnaires to the general public so I can make improvements to the game. 
-•Made a testing plan to check if key features in the game worked correctly.
+* Learned Python from scratch. 
+* Created a two player ping pong game using Python. 
+* Designed a user friendly interface using the simplegui library.
+* Game included two end game conditions which were time and score limited.
+* Distributed questionnaires to the general public so I can make improvements to the game. 
+* Made a testing plan to check if key features in the game worked correctly.
 
 ## Skills
 
