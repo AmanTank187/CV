@@ -12,9 +12,6 @@ I am a very determined individual looking for a junior developer role. I am pass
 
 ## Experience
 
-**Primark** (Oct 2018 - Oct 2020)  
-_Retail Assistant_ -
- While working as a retail assistant at Primark I had to communicate with a huge amount of people from different backgrounds on a daily basis. I believe this job has helped me improve my confidence and the ability to talk to all types of people. I feel this will be beneficial in a software development environment as I'll be capable of confidently communicating with people in or outside my team. 
 
 ## Skills
 
