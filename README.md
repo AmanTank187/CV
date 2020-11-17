@@ -1,7 +1,6 @@
 ## Aman Tank
 
-I am a very determined individual looking for a junior developer role. I am passionate about learning new things and want to be able to write good quality industry standard code.  As a junior I hope to bring my enthusiasm and hard working ethic to your company. I recently finished college where I studied software development and I am eager to start working in a professional environment where I can thrive due to getting hands-on experiences. I want to work with others that share a similar mindset of always trying to improve and deliver work at the highest quality.
-
+I am a very determined individual looking for a junior developer role. I am passionate about learning new things and want to be able to write good quality industry standard code.  As a junior I hope to bring my enthusiasm and hard working ethic to your company. I recently finished college where I studied software development and I am eager to start working in a professional environment as I believe being involved in real world projects is where I'll improve as a developer the most. 
 
 ## Projects
 
@@ -15,21 +14,25 @@ I am a very determined individual looking for a junior developer role. I am pass
 
 **Primark** (Oct 2018 - Oct 2020)  
 _Retail Assistant_ -
- Developed great communication skills that will help me confidently communicate with my colleagues in a professional environment. I learnt to manage multiple tasks at once and do them on time, this will help me meet all my deadlines in a software development environment. 
+ While working as a retail assistant at Primark I had to communicate with a huge amount of people from different backgrounds on a daily basis. I believe this job has helped me improve my confidence and the ability to talk to all types of people. I feel this will be beneficial in a software development environment as I'll be capable of confidently communicating with people in or outside my team. 
 
 ## Skills
 
 #### Working knowledge of ruby and python. 
-I have developed my ruby skills by covering multiple ruby lectures on code academy and udemy, after understanding the basics I applied my knowledge to create a rock,paper,scissors and a guessing game in my own time. While on the precourse of makers I have also been able to apply my ruby knowledge by completing mastery quizzes and multiple problems on codewars. While in college i was able to cover the basics of python and create my own ping pong game that allowed you to play against a friend. 
+
+I have working knowledge of ruby and python. Using my ruby knowledge I have created a rock,paper ,scissors game and a number guessing game. I’ve also been able to apply my ruby knowledge throughout the makers pre-course by completing the mastery quizzes, solving codewars problems and creating a student directory command line app which is on github. I have also covered python while I was attending college and was able to create a ping pong game that allowed you to play with a friend. 
 
 #### Experienced in agile and waterfall methodologies. 
-While carrying out my final project in college, me and my group applied agile so we could adapt quickly when the demands of our project were constantly changing. This enabled us to keep up to date with the changes and implement them into our project before deadlines. When i carried out simple college projects where i knew the end goal was going to stay the same i would use the waterfall cycle to organise what stage of the project i was at and had to complete. 
+
+During my time at college I covered methodologies such as agile and the waterfall cycle so when i'm on a project I can decide which one is more suitable to use.  For my final year project the specification was always changing meaning I decided our group should take an agile approach to allow us to adapt to any changes and still be able to deliver our project in time. I would use the waterfall cycle for simple projects that I would do in my own time such as creating a simple hangman game where I would be able to identify what part of the cycle i was on. 
 
 #### Creating documentation such as UML diagrams, reports and gantt charts.
-As a part of my final project in college, me and my group had to create a racing game. I would use additional tools such as UML diagrams to visually represent a task we had to complete. We frequently wrote up reports that detailed what went well, problems we faced and what we could do next time in order for the process to be smoother. To ensure the group knew what they had to do and when a task had to be completed, I designed a gantt chart in order to display what tasks are a priority and when a task should be finished. 
+
+While carrying out my final year project I decided to use additional tools to represent concepts and help track the overall progression of the project. UML diagrams were used to visually represent a complicated programming concept, this helped other members of the team who weren’t doing much coding still understand how specific functions of the project worked. I would regularly create reports to identify what went well in the project, what did not go well and what can be improved on, all members would do a report and have a meeting to give each other feedback. To keep track of tasks and see how long they would take I created a gantt chart so all members would have a reference to see what tasks they had to do and how long it would take them. 
 
 #### Organising and overseeing projects.
-In my final year project me and my group had to take turns being the project manager, although this was the case I took initiative to be the project manager throughout the whole project. I wanted to deliver the best racing game we could possibly make so I took control and ensured my group were up to date with their tasks. I did this by setting up a whatsapp group dedicated to the project and used a kanban board to assign tasks to individuals who felt they were most effective at completing it. 
+
+For the final year project I put myself forward to be the project manager. I like taking responsibility and ensured we could deliver the best racing game possible. I used a kanban board and social media to keep everyone on the team up to date with their tasks. If a team member came across issues such as not understanding a piece of code I would explain it to them and make sure they knew what was happening and why it was happening. I helped the group stay happy by letting them have a voice and listening carefully, this created a positive environment which helped us work more efficiently as a team. 
 
 ## Education
 
@@ -50,4 +53,4 @@ GCSEs: 9 GCSEs (A-C) including maths and english.
 
 ## Hobbies
 
-I am a competitive person so i enjoy gaming and playing sports. For gaming i will take part in tournaments in my free time and for sports i play football weekly. 
+I consider myself a very competitive individual so i like to take part in team based games. I enjoy playing football weekly and playing in video game tournaments in my free time. They both revolve around individual skill and coming together to work as a team which is the reason why I have a passion for both activities. 
