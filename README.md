@@ -16,15 +16,15 @@ I am a very determined individual looking for a junior developer role. I am pass
 * Worked in a team of three to design and build a time trial racing game using Unreal engine. 
 * Communicated and organised tasks for the team using a kanban board. 
 * Led project reviews to discuss  progress with our supervisor by creating reports. 
-•Took part in sprint retrospectives to help improve our processes and support my team. 
-•Scoped out tasks using mind maps so the team could identify how much work we could complete. 
+* Took part in sprint retrospectives to help improve our processes and support my team. 
+* Scoped out tasks using mind maps so the team could identify how much work we could complete. 
 
 #### Battleships game(2017)				
-•Built a battleships game which allowed up to two players using C++. 
-•Wrote pseudo code for guidance when creating the game. 
-•Created a table to keep track of what i tested, the outcome of testing and any improvements i made. 
-•Received feedback from the general public to help me make any further improvements.
-•Used classes to separate the different functionality. 
+* Built a battleships game which allowed up to two players using C++. 
+* Wrote pseudo code for guidance when creating the game. 
+* Created a table to keep track of what i tested, the outcome of testing and any improvements i made. 
+* Received feedback from the general public to help me make any further improvements
+* Used classes to separate the different functionality. 
 
 #### Ping pong game(2017)				
 •Learned Python from scratch. 
