@@ -10,6 +10,7 @@ I am a very determined individual looking for a junior developer role. I am pass
 | **Acebook** | Facebook clone created with a rails backend and Javascript frontend. | Ruby, Rails, Javascript, HTML, CSS, PSQL |   
  **Sheep Notes** | Single page web app that allows a user to create notes which are then displayed. The project was created using pure javascript, no libraries and a testing frame work we built from scratch.[Sheep notes deployed on surge.](http://sheep-notes.surge.sh/ ) |Javascript, HTML, CSS |  
 |**MakersBnB**| AirBnB clone | Ruby, Sinatra, PSQL, HTML, CSS | 
+|**Chitter challenge**| Twitter like clone, You can sign up, post a peep, see everyones peeps and see your own peeps on your profile page | Ruby, Sinatra, PSQL, HTML, CSS | 
 
 Link to my github to see more: [Click here](https://github.com/AmanTank187)
 
