@@ -76,4 +76,5 @@ GCSEs: 9 GCSEs (A-C) including maths and english.
 
 ## Hobbies
 
-*Gaming - I am a very competitive person so i enjoy playing in video game tournaments in my spare time.
+* Gaming - I am a very competitive person so i enjoy playing in video game tournaments in my spare time with my friends as i enjoy being part of a team.
+* Sports - I enjoy playing football every friday to stay active. 
