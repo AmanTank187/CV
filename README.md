@@ -6,9 +6,10 @@ I am a very determined individual looking for a junior developer role. I am pass
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **BookMeUp**            | Application to add students to a list and save them to a file.| MERN Stack|
-| **Acebook** | Built mini game to play against the computer. | Ruby, Rails, Javascript, HTML, CSS |   
-|**MakersBnB**| Built a number guessing game with choice of difficulty. | Ruby, Sinatra, HTML, CSS | 
+| **BookMeUp**            | App that allows you to search for books using an ISBN or scanning the ISBN barcode through webcam.| MERN Stack|
+| **Acebook** | Facebook clone with a rails backend and Javascript frontend. | Ruby, Rails, Javascript, HTML, CSS, PSQL |   
+ **Sheep Notes** | App that allowed you to create notes and display a list of all notes created. |Javascript, HTML, CSS |  
+|**MakersBnB**| AirBnB clone | Ruby, Sinatra, PSQL, HTML, CSS | 
 
 ## Experience
 
