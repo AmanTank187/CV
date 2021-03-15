@@ -1,6 +1,6 @@
 ## Aman Tank
 
-I am a very determined individual looking for a junior developer role. I am passionate about learning new things and want to be able to write good quality industry standard code.  As a junior I hope to bring my enthusiasm and hard working ethic to your company. I recently finished college where I studied software development and I am eager to start working in a professional environment as I believe being involved in real world projects is where I'll improve as a developer the most. 
+I am a very determined individual looking for a junior developer role. I am passionate about learning new things and want to be able to follow good quality industry standard practises such as TDD. As a junior I hope to bring my enthusiasm and hard working ethic to your company. I recently finished studying at Makers Academy, A 16 week developer bootcamp where i've been able to improve my knowledge about the fundamentals of software development by getting hands on experience through projects and. weekly challenges. I am eager to start working in a professional environment as I believe being involved in real world projects is where I'll improve as a developer the most. 
 
 ## Projects
 
@@ -8,8 +8,20 @@ I am a very determined individual looking for a junior developer role. I am pass
 | ---------------------------- | ----------------- | ----------------- |
 | **BookMeUp**            | App that allows a user to search for books using an ISBN or scanning the ISBN barcode through webcam.| MERN Stack|
 | **Acebook** | Facebook clone created with a rails backend and Javascript frontend. | Ruby, Rails, Javascript, HTML, CSS, PSQL |   
- **Sheep Notes** | Single page web app that allows a user to create notes which are then displayed. The project was created using pure javascript, no libraries and a testing frame work we built from scratch.[Sheep notes deployed on surge](http://sheep-notes.surge.sh/ ) |Javascript, HTML, CSS |  
+ **Sheep Notes** | Single page web app that allows a user to create notes which are then displayed. The project was created using pure javascript, no libraries and a testing frame work we built from scratch.[Sheep notes deployed on surge.](http://sheep-notes.surge.sh/ ) |Javascript, HTML, CSS |  
 |**MakersBnB**| AirBnB clone | Ruby, Sinatra, PSQL, HTML, CSS | 
+
+## Tech skills
+
+### Languages: Ruby, Rails, Javascript, HTML/CSS, PostgreSQL
+
+### Processes: 
+* Objected Oriented Programming 
+* Test Driven Development 
+* Pair Programming 
+* Model View Controller 
+* Agile Methodologies 
+* XP Values
 
 ## Experience
 
@@ -57,7 +69,7 @@ I like taking responsibility so i volunteered as project manager and ensured we 
 
 #### Makers Academy (Nov 2020 -)
 
-- OOP, TDD, MVC, DDD
+- OOP, TDD, MVC
 - Agile/XP
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
