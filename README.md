@@ -11,7 +11,7 @@ I am a very determined individual looking for a junior developer role. I am pass
  **Sheep Notes** | Single page web app that allows a user to create notes which are then displayed. The project was created using pure javascript, no libraries and a testing frame work we built from scratch.[Sheep notes deployed on surge.](http://sheep-notes.surge.sh/ ) |Javascript, HTML, CSS |  
 |**MakersBnB**| AirBnB clone | Ruby, Sinatra, PSQL, HTML, CSS | 
 
-Link to my github to see more: [My Github](https://github.com/AmanTank187)
+Link to my github to see more: [Click here](https://github.com/AmanTank187)
 
 ## Tech skills
 
