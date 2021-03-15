@@ -6,9 +6,9 @@ I am a very determined individual looking for a junior developer role. I am pass
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Student directory command line app**            | Application to add students to a list and save them to a file.| Ruby |
-| **Rock,Paper,Scissors** | Built mini game to play against the computer. | Ruby |   
-|**Guess the number**| Built a number guessing game with choice of difficulty. | Ruby | 
+| **BookMeUp**            | Application to add students to a list and save them to a file.| MERN Stack|
+| **Acebook** | Built mini game to play against the computer. | Ruby, Rails, Javascript, HTML, CSS |   
+|**MakersBnB**| Built a number guessing game with choice of difficulty. | Ruby, Sinatra, HTML, CSS | 
 
 ## Experience
 
