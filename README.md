@@ -54,22 +54,6 @@ I am a very determined individual looking for a junior developer role. I am pass
 * Good coding practises - Test driven development is very important to me and i'm always trying to improve my process to make sure my code is robust, I enjoy aiming to keep my test coverage above 95% when i work on a project.
 * Commitment - At a young age i decided to commit to a 16 week bootcamp. 
 
-#### Working knowledge of ruby and python. 
-
-Using my ruby knowledge I have created a rock,paper ,scissors game and a number guessing game. I’ve also been able to apply my ruby knowledge throughout the makers pre-course by completing the mastery quizzes, solving codewars problems and creating a student directory command line app which is on github. I have also covered python and used it to create a ping pong game. 
-
-#### Experienced in agile and waterfall methodologies. 
-
-For my final year project the specification was always changing so I decided our group should take an agile approach to allow us to adapt to any changes and still be able to deliver our project in time. I would use the waterfall cycle for simple projects that I would do in my own time such as creating a simple hangman game where I would be able to identify what part of the cycle i was on. 
-
-#### Creating documentation such as UML diagrams, reports and gantt charts.
-
-While carrying out my final year project I decided to use additional tools to represent concepts and help track the overall progression of the project. UML diagrams were used to visually represent a complicated programming concept.I would regularly create reports to identify what went well in the project, what did not go well and what can be improved on. To keep track of tasks and see how long they would take I created a gantt chart so all members would have a reference to see what tasks they had to do and how long it would take them. 
-
-#### Organising and overseeing projects.
-
-I like taking responsibility so i volunteered as project manager and ensured we could deliver the best racing game possible. While being projected manager i kept everyone up to date on what they should do and when it should be completed by. I created a positive work enviroment where i would allow every member to have a voice, this led to a good team bond and a better project. 
-
 ## Education
 
 #### Makers Academy (Nov 2020 -)
