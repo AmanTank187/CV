@@ -6,9 +6,9 @@ I am a very determined individual looking for a junior developer role. I am pass
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **BookMeUp**            | App that allows you to search for books using an ISBN or scanning the ISBN barcode through webcam.| MERN Stack|
-| **Acebook** | Facebook clone with a rails backend and Javascript frontend. | Ruby, Rails, Javascript, HTML, CSS, PSQL |   
- **Sheep Notes** | App that allowed you to create notes and display a list of all notes created. |Javascript, HTML, CSS |  
+| **BookMeUp**            | App that allows a user to search for books using an ISBN or scanning the ISBN barcode through webcam.| MERN Stack|
+| **Acebook** | Facebook clone created with a rails backend and Javascript frontend. | Ruby, Rails, Javascript, HTML, CSS, PSQL |   
+ **Sheep Notes** | Single page web app that allows a user to create notes which are then displayed. The project was created using pure javascript, no libraries and a testing frame work we built from scratch. |Javascript, HTML, CSS |  
 |**MakersBnB**| AirBnB clone | Ruby, Sinatra, PSQL, HTML, CSS | 
 
 ## Experience
