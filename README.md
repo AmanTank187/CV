@@ -56,7 +56,7 @@ I am a very determined individual looking for a junior developer role. I am pass
 
 ## Education
 
-#### Makers Academy (Nov 2020 -)
+#### Makers Academy (Nov 2020 - Mar 2020)
 
 - OOP, TDD, MVC
 - Agile/XP
